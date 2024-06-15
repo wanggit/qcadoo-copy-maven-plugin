@@ -1,2 +1,2 @@
-# qcadoo-copy-maven-plugin
-copy from qcadoo
+# wg-maven-plugin
+base from qcadoo
